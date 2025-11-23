@@ -1,6 +1,10 @@
 - key: zoozine
   value: tidbits for the busy zoologist
 
+-key: want to contribute?
+ value: submission form
+ url: https://tally.so/r/688B7e
+ 
 - key: check this out
   value:
     - value: what is a zine?
