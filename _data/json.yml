@@ -11,6 +11,7 @@
       url: https://guides.library.ubc.ca/indigenousnewmedia/zines
 
 - key: digital copies
+  value:
     - value: vol 1 pdf
       url: https://www.google.com/
     - value: vol 1 printable
