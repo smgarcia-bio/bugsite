@@ -1,10 +1,18 @@
-key: zoozine
-value: tidbits for the busy zoologist
+- key: zoozine
+  value: tidbits for the busy zoologist
 
-key: check this out
-value:
-  value: what is a zine?
-  url: https://en.wikipedia.org/wiki/Zine
-  value: a brief history of zines and why you should make one
-  url: https://staples-alanna.medium.com/a-brief-history-of-zines-and-why-you-should-make-one-f362b30e6d67
-  value: ubc's indigenous new media zine site
+- key: check this out
+  value:
+    - value: what is a zine?
+      url: https://en.wikipedia.org/wiki/Zine
+    - value: a brief history of zines and why you should make one
+      url: https://staples-alanna.medium.com/a-brief-history-of-zines-and-why-you-should-make-one-f362b30e6d67
+    - value: ubc's indigenous new media zine site
+      url: https://guides.library.ubc.ca/indigenousnewmedia/zines
+
+- key: digital copies
+    - value: vol 1 pdf
+      url: https://www.google.com/
+    - value: vol 1 printable
+      url: https://www.google.com/
+      
